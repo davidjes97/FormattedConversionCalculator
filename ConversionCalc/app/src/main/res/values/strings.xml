@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Conversion Calc</string>
+    <string name="titleLength">Length Converter</string>
+    <string name="titleVolume">Volume Converter</string>
+    <string name="fromLabel">From</string>
+    <string name="fromField">Enter from value</string>
+    <string name="fromUnits">Yards</string>
+    <string name="toLabel">To</string>
+    <string name="toField">Enter to value</string>
+    <string name="toUnits">Meters</string>
+    <string name="calculateButton">Calculate</string>
+    <string name="clearButton">Clear</string>
+    <string name="modeButton">Mode</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="settingsLabel">Settings</string>
+    <string-array name="lengthOptions">
+        <item>Yards</item>
+        <item>Meters</item>
+        <item>Miles</item>
+    </string-array>
+    <string-array name="volumeOptions">
+        <item>Liters</item>
+        <item>Gallons</item>
+        <item>Quarts</item>
+    </string-array>
+</resources>
